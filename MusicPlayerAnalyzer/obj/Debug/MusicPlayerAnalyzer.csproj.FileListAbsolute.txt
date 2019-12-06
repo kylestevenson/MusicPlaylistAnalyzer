@@ -1,0 +1,7 @@
+C:\Users\Kyle\source\repos\MusicPlayerAnalyzer\MusicPlayerAnalyzer\obj\Debug\MusicPlayerAnalyzer.csprojAssemblyReference.cache
+C:\Users\Kyle\source\repos\MusicPlayerAnalyzer\MusicPlayerAnalyzer\obj\Debug\MusicPlayerAnalyzer.csproj.CoreCompileInputs.cache
+C:\Users\Kyle\source\repos\MusicPlayerAnalyzer\MusicPlayerAnalyzer\bin\Debug\MusicPlayerAnalyzer.exe.config
+C:\Users\Kyle\source\repos\MusicPlayerAnalyzer\MusicPlayerAnalyzer\bin\Debug\MusicPlayerAnalyzer.exe
+C:\Users\Kyle\source\repos\MusicPlayerAnalyzer\MusicPlayerAnalyzer\bin\Debug\MusicPlayerAnalyzer.pdb
+C:\Users\Kyle\source\repos\MusicPlayerAnalyzer\MusicPlayerAnalyzer\obj\Debug\MusicPlayerAnalyzer.exe
+C:\Users\Kyle\source\repos\MusicPlayerAnalyzer\MusicPlayerAnalyzer\obj\Debug\MusicPlayerAnalyzer.pdb
